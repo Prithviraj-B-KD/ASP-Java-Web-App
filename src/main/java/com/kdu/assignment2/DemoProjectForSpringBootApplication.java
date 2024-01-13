@@ -15,7 +15,7 @@ public class DemoProjectForSpringBootApplication {
 	class HelloController {
 		@GetMapping("/")
 		public String index() {
-			return "Hello, Prithvi!";
+			return "Github - Hello Prithvi ,KD-24";
 		}
 	}
 }
